@@ -1,1 +1,1 @@
-web: java -jar home-application/target/home-application-0.0.1-SNAPSHOT.jar
+web: java $JAVA_OPTS -cp target/classes:target/dependency/* com.softserveinc.ita.homeproject
