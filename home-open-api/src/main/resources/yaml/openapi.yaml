@@ -3,8 +3,6 @@ info:
   title: HomePage - OpenAPI 3.0
   description: "This is a Home Page sample of Home Project based on the OpenAPI 3.0 specification."
   version: 1.0.0
-servers:
-  - url: /api/0
 tags:
   - name: news
     description: News management operations
